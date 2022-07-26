@@ -1,2 +1,2 @@
-- [] undo1
-- [] undo2
+- [ ] undo1
+- [ ] undo2
